@@ -1,0 +1,1 @@
+/* From https://dribbble.com/shots/2149436-Mail-Animation */
